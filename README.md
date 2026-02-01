@@ -36,26 +36,12 @@ Calculadora online disponible 24/7 sin necesidad de instalación.
 
 Escanea este QR desde tu móvil para acceso rápido en consulta:
 
-```
-█████████████████████████████████
-█████████████████████████████████
-████ ▄▄▄▄▄ █▀█ █▄▄▀▄█ ▄▄▄▄▄ ████
-████ █   █ █▀▀▀█ ▀▄ █ █   █ ████
-████ █▄▄▄█ █▀ █▀▀█▄██ █▄▄▄█ ████
-████▄▄▄▄▄▄▄█▄▀ ▀▄█ █▄▄▄▄▄▄▄▄████
-████ ▄▀▄  ▄  ▄▀▀▄▀▄  ▀▀▄█▄▀▄████
-████▄ ▀█▀▄▄▀▄█  ▀▄▀█▀▀▀██▄  ████
-████ █▄ ▄ ▄ ▄▀▀█▀▄▄██ ▄ ▀ ▀▄████
-████▄██▄█▄▄▄  █▄█  ▄▄▄ ▀   ▄████
-████ ▄▄▄▄▄ █▄▄  ▀▄ █▄█ ▄▄▀▄█████
-████ █   █ █  █▀▀▄▄▄▄▄▄▀█▀▄▄████
-████ █▄▄▄█ █ ▄█ █ ▄  ▄▄▀██▀ ████
-████▄▄▄▄▄▄▄█▄▄███▄▄█▄██▄██▄▄████
-█████████████████████████████████
-█████████████████████████████████
-```
-
-*(Genera tu propio QR actualizado en [qr-code-generator.com](https://www.qr-code-generator.com/))*
+<p align="center">
+  <img src="frame.png" alt="QR Code Calculadora SCORE ESC" width="200">
+</p>
+<p align="center">
+  <em>Escanea para acceso directo desde tu móvil</em>
+</p>
 
 ### Uso local
 
@@ -193,4 +179,3 @@ Para sugerencias, bugs o colaboraciones, abrir un [Issue](https://github.com/drj
 **⭐ Si te resulta útil esta herramienta, considera dar una estrella al repositorio!**
 
 **Última actualización**: Febrero 2026
-
